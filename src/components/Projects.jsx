@@ -7,7 +7,7 @@ const Projects = () => {
       title: 'Visa counter',
       description: 'A full stack F4 catagory visa issuance analysis web application.',
       tech: ['html', 'css', 'javascript'],
-      image: '/Visa counter.png',
+      image: './Visa counter.png',
       liveLink: 'https://visacounter.vercel.app/',
       featured: true
     },
@@ -16,7 +16,7 @@ const Projects = () => {
       title: 'HSC Examination Cracker',
       description: 'A exam routine and exam tracker website with study planner, progress tracker, study tools and resources',
       tech: ['React', 'Firebase', 'Material-UI', 'WebSocket'],
-      image: '/HSC Examination Cracker.jpg',
+      image: './HSC Examination Cracker.jpg',
       liveLink: 'https://hsc-creacker-by-nischup.netlify.app/',
       featured: true
     },
@@ -25,7 +25,7 @@ const Projects = () => {
       title: 'IGM certification exam website',
       description: 'A comprehensive platform for IGM certification exam preparation, offering practice tests, study materials, and performance tracking.',
       tech: ['JavaScript', 'React', 'Node.js', 'Express'],
-      image: '/IGM certification exam website.jpg',
+      image: './IGM certification exam website.jpg',
       liveLink: 'https://igm-certification-test.vercel.app/',
       featured: false
     },
@@ -34,7 +34,7 @@ const Projects = () => {
       title: 'very basic image generator (incomplete)',
       description: 'A simple image generator application that allows users to create and customize images using basic shapes and colors.',
       tech: ['html', 'Express', 'css', 'pollination api'],
-      image: '/very basic image generator (incomplete).jpg',
+      image: './very basic image generator (incomplete).jpg',
       liveLink: 'https://image-gen-for-goribs.vercel.app/',
       featured: true
     }
